@@ -1,0 +1,32 @@
+_repo: Mme-de-La-Fayette--6e--dition-_34872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haussonville, comte d'
+    aliases:
+    - Haussonville, le Comte d'
+    - Haussonville, Gabriel Paul Othenin de Cléron, comte d'
+    - D'Haussonville, comte
+    - Haussonville, Gabriel Paul Othenin de Cleron, comte d'
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '37293'
+    url: http://www.gutenberg.org/2009/agents/37293
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34872'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne), 1634-1693'
+title: Mme de La Fayette (6e édition)
+url: http://www.gutenberg.org/ebooks/34872
