@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '37293'
     url: http://www.gutenberg.org/2009/agents/37293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34872#Mme-de-La-Fayette--6e--dition-
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-01-07'
 gutenberg_type: Text
